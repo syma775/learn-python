@@ -1,0 +1,6 @@
+user_name = input('give your name : ')
+user_age = int(input('give your age : '))
+if user_age>=10 and (user_name[0] =='a' or user_name[0]=='A') :
+    print('you can watch coco movie')
+else:
+    print('sorry , you cannot watch coco')

@@ -1,0 +1,4 @@
+string = "string"
+print(string)
+print(string.replace("t","T"))
+print(string)

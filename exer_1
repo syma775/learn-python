@@ -1,0 +1,5 @@
+num1, num2, num3 = input("enter number :").split()
+average_num =(int(num1)+int(num2)+int(num3))/3
+print(average_num)
+
+print(f"first number {num1} ,second number {num2} ,third number {num3} = {(int(num1)+int(num2)+int(num3))/3}")

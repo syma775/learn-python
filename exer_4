@@ -1,0 +1,9 @@
+winning_number = int(input("Guess a number 1 to 100 : "))
+guess_number = 5
+if winning_number== guess_number:
+    print("you win")
+else:
+    if winning_number>guess_number:
+        print("Too High")
+    else:
+        print("Too low")

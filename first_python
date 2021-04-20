@@ -1,0 +1,5 @@
+print("hello world")
+print("lina a line b line c")
+print("lina a \nline b \nline c")
+print("lina a\tline b\tline c")
+print("hell\blo")

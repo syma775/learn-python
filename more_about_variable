@@ -1,0 +1,13 @@
+name , age = "syma" , "22"
+print(name + "is my name and my age "+ age)
+
+x = y = z = 1
+print(x+y+z)
+
+name , age = input("enter your name and age ").split()
+print(name)
+print(age)
+
+name , age = input("enter your name and age ").split(",")
+print(name)
+print(age)

@@ -1,0 +1,6 @@
+x = 10
+print(x)
+first_name = "syma"   #snake case writting
+secondName = "akther" # camel case writting
+print(first_name)
+print(secondName)

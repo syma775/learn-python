@@ -1,0 +1,11 @@
+name = 'Harshit'
+if 'a' in name:
+    print("a inside name")
+else:
+    print('not inside')
+
+
+if 'y' in 'syma':
+    print('y inside syma')
+else:
+    print('not inside')

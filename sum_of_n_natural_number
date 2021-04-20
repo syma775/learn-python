@@ -1,0 +1,8 @@
+user_input = int(input("choose any number : "))
+sum = 0
+i = 0
+while i <= user_input:
+    sum = sum + i
+    i = i + 1
+    print()
+print(sum)

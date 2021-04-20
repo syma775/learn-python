@@ -1,0 +1,6 @@
+fname , lname = input("enter your name : ").split(",")
+print(f"{fname} {lname}")
+print(len(fname))
+print(f"{fname.lower().count(lname.lower())}")
+
+

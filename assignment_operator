@@ -1,0 +1,16 @@
+a = 10
+a+=10
+print(f"sum = {a}")
+a-=10
+print(f"sub = {a}")
+a*=10
+print(f"multi = {a}")
+a%=10
+print(f"module = {a}")
+a/=10
+print(f"div = {a}")
+a//=10
+print(f"integer div = {a}")
+a**=10
+print(f"exponent equal = {a}")
+

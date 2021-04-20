@@ -1,0 +1,3 @@
+first_name = "syma"   #snake case writting
+secondName = " akther" # camel case writting
+print(first_name+secondName)

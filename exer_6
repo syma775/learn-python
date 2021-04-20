@@ -1,0 +1,6 @@
+# ask user to input a number containing more then one digit
+# example - 1256
+# calculate 1+2+5+6 and print
+num = input("enter any number : ").split()
+result = int(num[0]) + int(num[1]) + int(num[2]) +int(num[len(num)-1])
+print(result)

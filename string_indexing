@@ -1,0 +1,4 @@
+language = "python"
+print(language)
+print(f"{language[0]},{language[1]},{language[2]},{language[3]},{language[4]},{language[5]}")
+print(f"{language[-1]},{language[-2]},{language[-3]},{language[-4]},{language[-5]},{language[-6]}")

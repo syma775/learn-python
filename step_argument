@@ -1,0 +1,6 @@
+lang = "english"
+print(lang[::])
+print(lang[0:6:2])
+print(lang[:6:-1])
+print(lang[3::-2])
+print(lang[::-1])

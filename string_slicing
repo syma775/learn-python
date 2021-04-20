@@ -1,0 +1,6 @@
+lang = "python"
+print(lang[:])
+print(lang[0:6])
+print(lang[:6])
+print(lang[3:])
+print(lang[:4])
